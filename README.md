@@ -1,6 +1,6 @@
 # David Holl
 
-Hallo! Ich bin David, Umschüler zum Fachinformatiker in Anwendungsentwicklung. Ich habe eine Leidenschaft fürs Programmieren und bin ständig dabei, neue Technologien und Tools zu erkunden.
+Hallo! Ich bin David, Umschüler zum Fachinformatiker in Anwendungsentwicklung. Ich habe eine Leidenschaft fürs Programmieren entwickelt und bin ständig dabei, neue Technologien und Tools zu erkunden.
 
 🔍 **Aktuell lerne ich:**
 - Python
