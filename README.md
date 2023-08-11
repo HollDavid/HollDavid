@@ -4,7 +4,7 @@ Hallo! Ich bin David, Umschüler zum Fachinformatiker in Anwendungsentwicklung. 
 
 🔍 **Aktuell lerne ich:**
 - Python
-- Data Science durch den IBM Kurs auf [coursera.org](https://www.coursera.org/).
+- Data Science durch die mehrteiligen IBM Kurse auf [coursera.org](https://www.coursera.org/).
 
 🛠 **Meine Lieblingswerkzeuge:**
 - Visual Studio 2022
